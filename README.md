@@ -1,3 +1,3 @@
-# Carousel_Slidder
+# Carousel_Slider
 
-<h3> Carousel Slidder In HTML & CSS for Branding , Collaboration & etc. </h3>
+<h3> Carousel Slider In HTML & CSS for Branding , Collaboration & etc. </h3>
